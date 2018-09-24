@@ -1,11 +1,15 @@
-desde la web de github
+Deesde la web de github
+
 Creamos un nuevo repositorio en https://github.com.
- Le damos nombre, descripción, seleccionamos si va a 
-ser un proyecto publico o privado si es el caso, y dejamos el check de crear
+Le damos nombre, descripción, seleccionamos si va a 
+ ser un proyecto publico o privado si es el caso, y dejamos el check de crear
  README sin marcar. Le damos a crear repositorio y con esto ya tenemos 
-el repositorio donde alojaremos nuestro proyecto.
+ el repositorio donde alojaremos nuestro proyecto.
 
 
+Desde la consola 
+
+***** La primera vez 
 
 git init
 
@@ -18,6 +22,14 @@ git remote add origin https://github.com/fabianv2003/test8.git
 git pull --rebase origin master
 
 git push -u origin master
+
+***** Las siguientes
+
+git add . (add all files)
+
+git commit -m "Added my project"
+
+git push
 
 
 
