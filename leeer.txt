@@ -1,4 +1,4 @@
-Deesde la web de github
+1) Deesde la web de github
 
 Creamos un nuevo repositorio en https://github.com.
 Le damos nombre, descripción, seleccionamos si va a 
