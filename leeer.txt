@@ -7,7 +7,7 @@ Le damos nombre, descripción, seleccionamos si va a
  el repositorio donde alojaremos nuestro proyecto.
 
 
-Desde la consola 
+2) Desde la consola 
 
 ***** La primera vez 
 
